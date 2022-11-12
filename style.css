@@ -1,0 +1,15 @@
+h1 {
+    display: block;
+    margin: 0 auto;    
+    color: brown;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+h2 {
+    display: block;
+    margin: 0 auto;
+    color: blueviolet;
+    font-size: 18px;
+    font-weight: 400;
+}
